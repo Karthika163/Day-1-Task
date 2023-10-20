@@ -1,0 +1,15 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+HTTP1.1
+HTTP is Hyper text transfer protocol.
+HTTP1.1 is the first version of HTTP.
+It was created in 1997.
+It's multiflexing the resource one by one. 
+So it blocks all other resoures behind it. its the draw back of http1.
+HTTP1.1 sends the push message only clients have to ask.
+HTTP2
+HTTP2 is an updated version of HTTP1.1.
+HTTP2 was created in 2015.
+Its solves several problems using TCP connection.
+spliting the data into binary code messagess and also  numbering the message.
+HTTP2 offer a feture called weighted priorization.
+HTTP2 create the push message before asking the client.

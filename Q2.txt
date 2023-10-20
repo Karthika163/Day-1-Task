@@ -1,0 +1,8 @@
+Write a blog about objects and its internal representation in Javascript
+Object is an collection of data types.
+And also the combination of primitive data type and referance data type.
+Primitive data types are (numers,string,boolean,undefined and symbols).
+primitive data type stores a single value depending on their data type.
+Referance data type is whare the object is stored in the  memory location.
+An object have an many variabls and functions.
+An object can be created with Figure Brakets {}.
